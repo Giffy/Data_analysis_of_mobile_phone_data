@@ -1,5 +1,4 @@
-# Data analysis using PyMongo to connect to MongoDB
-# and Pandas 
+# Data analysis using PyMongo to connect to MongoDB<br> and Pandas 
 #
 # Study about:
 #        "Market share of carriers",
