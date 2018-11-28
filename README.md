@@ -10,7 +10,7 @@ Study done with learning purpose to learn:
   
 Study is based in open data from Generalitat de Catalunya.
 DataSet can be downloaded here:
-https://analisi.transparenciacatalunya.cat/browse?q=cobertura%20M%C3%B2bil&sortBy=relevance
+https://analisi.transparenciacatalunya.cat/browse?q=cobertura%20M%C3%B2bil
 
 Dataset includes:
   - level of mobile phone coverage (min, max, avg)
